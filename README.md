@@ -27,7 +27,8 @@ It leverages **time series forecasting models** to generate insights, aiding bus
   - Weekends have higher revenue than weekdays  
 
 ### 🔹 Forecasted Revenue Chart  
-![Forecasted Revenue](C:\Users\Administrator\E-commerce_Revenue_Forecasting\images\forecast_chart.png.jpeg)
+![Forecasted Revenue](images/forecast_chart.png)
+
 
 ## 🚀 How to Run
 
