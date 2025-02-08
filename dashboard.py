@@ -11,7 +11,7 @@ start_date = st.date_input("Select Start Date", datetime.date(2025, 3, 1))
 steps = st.number_input("Days to Predict", min_value=1, max_value=90, value=30)
 
 if st.button("Predict"):
-    url = "http://127.0.0.1:5000/predict"
+    url = API_URL = "https://your-api-service.com/predict"
     data = {"start_date": str(start_date), "steps": steps}
     
     try:
